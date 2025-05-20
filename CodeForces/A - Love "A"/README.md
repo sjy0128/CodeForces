@@ -1,0 +1,1 @@
+https://codeforces.com/contest/1146/problem/A
